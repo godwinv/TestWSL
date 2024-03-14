@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgCmKg4NS0EsOF/Yt+S7PnECEYWCA7AunUuq5/9WK1gu8zRTBHKXWFipOH/qtO38CKF9crbwq/yTSd/1JRjCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Godwin\\Documents\\QRCodeTest\\TestImage\\TestImage\\TestImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Godwin\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Godwin\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

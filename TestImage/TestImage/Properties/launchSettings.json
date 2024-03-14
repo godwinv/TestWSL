@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestImage": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

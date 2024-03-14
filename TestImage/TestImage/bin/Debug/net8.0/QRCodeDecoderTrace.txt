@@ -1,0 +1,252 @@
+2024/03/14 09:28:28 ----
+2024/03/14 09:28:28 QRCodeDecoder
+2024/03/14 09:28:37 Convert image to black and white
+2024/03/14 09:28:37 Time: 0
+2024/03/14 09:28:37 Finders search
+2024/03/14 09:28:37 Horizontal Finders count: 68
+2024/03/14 09:28:37 Matched Finders count: 15
+2024/03/14 09:28:37 Remove all unused finders
+2024/03/14 09:28:37 Time: 16
+2024/03/14 09:28:37 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Search for QR corners
+2024/03/14 09:28:37 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:28:37 Initial version number: 16, dimension: 81
+2024/03/14 09:28:37 Version code exact match: 10B78, Version: 16
+2024/03/14 09:28:37 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:28:37 Decode QR code using three finders
+2024/03/14 09:28:37 Fixed modules no error
+2024/03/14 09:28:37 No data errors
+2024/03/14 09:28:37 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:28:37 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:28:37 Time: 63
+2024/03/14 09:34:08 ----
+2024/03/14 09:34:09 QRCodeDecoder
+2024/03/14 09:34:11 Convert image to black and white
+2024/03/14 09:34:11 Time: 0
+2024/03/14 09:34:11 Finders search
+2024/03/14 09:34:11 Horizontal Finders count: 68
+2024/03/14 09:34:11 Matched Finders count: 15
+2024/03/14 09:34:11 Remove all unused finders
+2024/03/14 09:34:11 Time: 15
+2024/03/14 09:34:11 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Search for QR corners
+2024/03/14 09:34:11 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:34:11 Initial version number: 16, dimension: 81
+2024/03/14 09:34:11 Version code exact match: 10B78, Version: 16
+2024/03/14 09:34:11 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:34:11 Decode QR code using three finders
+2024/03/14 09:34:11 Fixed modules no error
+2024/03/14 09:34:11 No data errors
+2024/03/14 09:34:11 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:34:11 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:34:11 Time: 62
+2024/03/14 09:34:11 ****
+2024/03/14 09:34:11 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\QRCodeImage.png 
+2024/03/14 09:34:12 Image width: 400, Height: 400
+2024/03/14 09:36:38 ----
+2024/03/14 09:36:38 QRCodeDecoder
+2024/03/14 09:36:40 Convert image to black and white
+2024/03/14 09:36:40 Time: 0
+2024/03/14 09:36:40 Finders search
+2024/03/14 09:36:40 Horizontal Finders count: 68
+2024/03/14 09:36:40 Matched Finders count: 15
+2024/03/14 09:36:40 Remove all unused finders
+2024/03/14 09:36:40 Time: 16
+2024/03/14 09:36:40 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Search for QR corners
+2024/03/14 09:36:40 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:36:40 Initial version number: 16, dimension: 81
+2024/03/14 09:36:40 Version code exact match: 10B78, Version: 16
+2024/03/14 09:36:40 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:36:40 Decode QR code using three finders
+2024/03/14 09:36:40 Fixed modules no error
+2024/03/14 09:36:41 No data errors
+2024/03/14 09:36:41 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:36:41 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:36:41 Time: 79
+2024/03/14 09:36:41 ****
+2024/03/14 09:36:41 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\QRCodeImage.png 
+2024/03/14 09:36:41 Image width: 400, Height: 400
+2024/03/14 09:37:53 ----
+2024/03/14 09:37:53 QRCodeDecoder
+2024/03/14 09:38:23 Convert image to black and white
+2024/03/14 09:38:23 Time: 0
+2024/03/14 09:38:23 Finders search
+2024/03/14 09:38:23 Horizontal Finders count: 68
+2024/03/14 09:38:23 Matched Finders count: 15
+2024/03/14 09:38:23 Remove all unused finders
+2024/03/14 09:38:23 Time: 15
+2024/03/14 09:38:23 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Search for QR corners
+2024/03/14 09:38:23 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:38:23 Initial version number: 16, dimension: 81
+2024/03/14 09:38:23 Version code exact match: 10B78, Version: 16
+2024/03/14 09:38:23 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:38:23 Decode QR code using three finders
+2024/03/14 09:38:23 Fixed modules no error
+2024/03/14 09:38:23 No data errors
+2024/03/14 09:38:23 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:38:23 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:38:23 Time: 62
+2024/03/14 09:38:23 ****
+2024/03/14 09:38:24 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\QRCodeImage.png 
+2024/03/14 09:38:30 Image width: 400, Height: 400
+2024/03/14 09:40:22 ----
+2024/03/14 09:40:22 QRCodeDecoder
+2024/03/14 09:40:23 Convert image to black and white
+2024/03/14 09:40:23 Time: 16
+2024/03/14 09:40:23 Finders search
+2024/03/14 09:40:23 Horizontal Finders count: 68
+2024/03/14 09:40:23 Matched Finders count: 15
+2024/03/14 09:40:23 Remove all unused finders
+2024/03/14 09:40:23 Time: 47
+2024/03/14 09:40:23 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Search for QR corners
+2024/03/14 09:40:23 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:40:23 Initial version number: 16, dimension: 81
+2024/03/14 09:40:23 Version code exact match: 10B78, Version: 16
+2024/03/14 09:40:23 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:40:23 Decode QR code using three finders
+2024/03/14 09:40:23 Fixed modules no error
+2024/03/14 09:40:23 No data errors
+2024/03/14 09:40:23 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:40:23 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:40:23 Time: 109
+2024/03/14 09:40:23 ****
+2024/03/14 09:40:23 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\QRCodeImage.png 
+2024/03/14 09:40:23 Image width: 25, Height: 25
+2024/03/14 09:41:15 ----
+2024/03/14 09:41:15 QRCodeDecoder
+2024/03/14 09:41:16 Convert image to black and white
+2024/03/14 09:41:16 Time: 15
+2024/03/14 09:41:16 Finders search
+2024/03/14 09:41:16 Horizontal Finders count: 68
+2024/03/14 09:41:16 Matched Finders count: 15
+2024/03/14 09:41:16 Remove all unused finders
+2024/03/14 09:41:16 Time: 47
+2024/03/14 09:41:16 Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Search for QR corners
+2024/03/14 09:41:16 Decode Corner: Top Left:    Finder: Row: 30, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Decode Corner: Top Right:   Finder: Row: 30, Col: 326, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Decode Corner: Bottom Left: Finder: Row: 326, Col: 30, Module: 4.00, Distance: 0.00
+2024/03/14 09:41:16 Initial version number: 16, dimension: 81
+2024/03/14 09:41:16 Version code exact match: 10B78, Version: 16
+2024/03/14 09:41:16 Format info exact match: 5E7C, EC: M, mask: 2
+2024/03/14 09:41:16 Decode QR code using three finders
+2024/03/14 09:41:16 Fixed modules no error
+2024/03/14 09:41:16 No data errors
+2024/03/14 09:41:16 Version: 16, Dim: 81, ErrCorr: M, Generator: 28, Mask: 2, Group1: 7:45, Group2: 3:46
+2024/03/14 09:41:16 Data: QRCodeEncoderDemo - Ver 3.0.0 - 2022-03-01 © 2018-2022 Uzi Granot. All rights reserved.
+The QR Code libraries allows your program to create (encode) QR Code image or, read (decode) an
+image containing one or more QR Codes. The attached source code is made of two solutions, a
+QR Code encoder solution and a QR Code decoder solution. The software was upgraded to VS 2022
+.NET 6.0 The source code is written in C#. It is an open-source code.
+2024/03/14 09:41:16 Time: 156
+2024/03/14 09:41:16 ****
+2024/03/14 09:41:16 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\QRCodeImage.png 
+2024/03/14 09:41:16 Image width: 25, Height: 25
+2024/03/14 09:46:18 ----
+2024/03/14 09:46:18 QRCodeDecoder
+2024/03/14 09:46:49 ----
+2024/03/14 09:46:49 QRCodeDecoder
+2024/03/14 09:46:51 Convert image to black and white
+2024/03/14 09:46:51 Time: 16
+2024/03/14 09:46:51 Finders search
+2024/03/14 09:46:51 Horizontal Finders count: 196
+2024/03/14 09:46:51 Matched Finders count: 25
+2024/03/14 09:46:51 Remove all unused finders
+2024/03/14 09:46:51 Time: 31
+2024/03/14 09:46:51 Finder: Row: 72, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Finder: Row: 72, Col: 360, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Finder: Row: 206, Col: 254, Module: 4.64, Distance: 1.00
+2024/03/14 09:46:51 Finder: Row: 227, Col: 178, Module: 4.57, Distance: 0.00
+2024/03/14 09:46:51 Finder: Row: 255, Col: 226, Module: 4.64, Distance: 0.00
+2024/03/14 09:46:51 Finder: Row: 360, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Search for QR corners
+2024/03/14 09:46:51 Decode Corner: Top Left:    Finder: Row: 255, Col: 226, Module: 4.64, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Top Right:   Finder: Row: 72, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Bottom Left: Finder: Row: 72, Col: 360, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Initial version number: 5, dimension: 37
+2024/03/14 09:46:51 Format info match with errors: 4BEC, EC: M, mask: 7, errors: 3
+2024/03/14 09:46:51 Decode QR code using three finders
+2024/03/14 09:46:51 Decode QR code exception.
+Index was outside the bounds of the array.
+2024/03/14 09:46:51 Estimated alignment mark: Row -74, Col 208
+2024/03/14 09:46:51 Decode corner failed. Index was outside the bounds of the array.
+2024/03/14 09:46:51 Decode Corner: Top Left:    Finder: Row: 72, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Top Right:   Finder: Row: 72, Col: 360, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Bottom Left: Finder: Row: 360, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Initial version number: 2, dimension: 25
+2024/03/14 09:46:51 Format info exact match: 1689, EC: H, mask: 0
+2024/03/14 09:46:51 Decode QR code using three finders
+2024/03/14 09:46:51 Fixed modules no error
+2024/03/14 09:46:51 Error correction applied to data. Total errors: 10
+2024/03/14 09:46:51 Version: 2, Dim: 25, ErrCorr: H, Generator: 28, Mask: 0, Group1: 1:16, Group2: 0:0
+2024/03/14 09:46:51 Data: Big QR Code
+2024/03/14 09:46:51 Decode Corner: Top Left:    Finder: Row: 206, Col: 254, Module: 4.64, Distance: 1.00
+2024/03/14 09:46:51 Decode Corner: Top Right:   Finder: Row: 360, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Bottom Left: Finder: Row: 72, Col: 72, Module: 16.00, Distance: 0.00
+2024/03/14 09:46:51 Initial version number: 5, dimension: 37
+2024/03/14 09:46:51 Format info no match: 4B78
+2024/03/14 09:46:51 Format info match with errors: 6083, EC: L, mask: 5, errors: 2
+2024/03/14 09:46:51 Decode QR code using three finders
+2024/03/14 09:46:51 Decode QR code exception.
+Index was outside the bounds of the array.
+2024/03/14 09:46:51 Estimated alignment mark: Row 224, Col -74
+2024/03/14 09:46:51 Decode corner failed. Index was outside the bounds of the array.
+2024/03/14 09:46:51 Decode Corner: Top Left:    Finder: Row: 255, Col: 226, Module: 4.64, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Top Right:   Finder: Row: 227, Col: 178, Module: 4.57, Distance: 0.00
+2024/03/14 09:46:51 Decode Corner: Bottom Left: Finder: Row: 206, Col: 254, Module: 4.64, Distance: 1.00
+2024/03/14 09:46:51 Initial version number: 1, dimension: 21
+2024/03/14 09:46:51 Format info exact match: 77C4, EC: L, mask: 0
+2024/03/14 09:46:51 Decode QR code using three finders
+2024/03/14 09:46:51 Fixed modules no error
+2024/03/14 09:46:51 No data errors
+2024/03/14 09:46:51 Version: 1, Dim: 21, ErrCorr: L, Generator: 7, Mask: 0, Group1: 1:19, Group2: 0:0
+2024/03/14 09:46:51 Data: Small QR Code
+2024/03/14 09:46:51 Time: 500
+2024/03/14 09:46:51 ****
+2024/03/14 09:46:51 Decode image: C:\Users\Godwin\Documents\QRCodeTest\TestImage\TestImage\bin\Debug\net8.0\DoubleQRCode.png 
+2024/03/14 09:46:51 Image width: 25, Height: 25
